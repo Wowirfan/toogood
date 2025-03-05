@@ -1,5 +1,5 @@
 const scroll = new LocomotiveScroll({
-    el: document.querySelector(''),
+    el: document.querySelector('#main'),
     smooth: true
 });
 function videoconAnimation(){
