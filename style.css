@@ -81,7 +81,6 @@ padding-top: 20vh;
 
 @media (max-width:600px) {
   #page1 {
-    min-height: 100vh;
     position: relative;
     width: 100%;
     /* background-color: rgb(223, 218, 228); */
