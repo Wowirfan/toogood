@@ -80,7 +80,14 @@ padding-top: 20vh;
 }
 
 @media (max-width:600px) {
+  #page1 h1{
+    font-size: 15.8vw;
+    text-transform: uppercase;
+    line-height: 14vw;
+    font-family: futura;
+    letter-spacing: -8px;
   
+  }
   #page1 h1{
     font-size: 15.5vw;
     line-height: 14vw;
