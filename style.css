@@ -82,7 +82,6 @@ padding-top: 20vh;
 @media (max-width:600px) {
   #page1 h1{
     font-size: 15.5vw;
-    
     line-height: 14vw;
     letter-spacing: -3px;
   
