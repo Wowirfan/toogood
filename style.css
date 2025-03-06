@@ -80,5 +80,7 @@ padding-top: 20vh;
 }
 
 @media (max-width:600px) {
-  body
+  body{
+    background-color: ;
+  }
 }
