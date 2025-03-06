@@ -82,8 +82,7 @@ padding-top: 20vh;
 @media (max-width:600px) {
   #page1 {
     width: 100%;
-    /* background-color: rgb(223, 218, 228); */
-    padding: 0 1vw;
+    padding: 0 3vw;
     padding-top: 25vh;
     }
   #page1 h1{
