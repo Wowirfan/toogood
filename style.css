@@ -76,7 +76,7 @@ padding-top: 20vh;
 #page3 {
   height: 100vh;
   width: 100%;
-  background-color: rgb(78, 215, 165);
+  /* background-color: rgb(78, 215, 165); */
 }
 
 @media (max-width:600px) {
