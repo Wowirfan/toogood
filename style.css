@@ -80,7 +80,14 @@ padding-top: 20vh;
 }
 
 @media (max-width:600px) {
-  
+  #page1 {
+    min-height: 100vh;
+    position: relative;
+    width: 100%;
+    /* background-color: rgb(223, 218, 228); */
+    padding: 0 1vw;
+    padding-top: 20vh;
+    }
   #page1 h1{
     font-size: 15.5vw;
     line-height: 14vw;
