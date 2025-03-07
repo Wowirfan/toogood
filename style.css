@@ -81,7 +81,6 @@ padding-top: 20vh;
 
 @media (max-width:600px) {
   #page1 {
-    height: 50vh;
     width: 100%;
     padding: 0 3vw;
     padding-top: 25vh;
