@@ -102,8 +102,8 @@ padding-top: 20vh;
 }
 #video-container #play{
   padding: 9vw 7.2vw;
-transform: translate(-50% -50%);
-  
+transform: translate(-50%, -50%);
+  left: 50%;
   font-size: 4.5vw;
   position:absolute;
   border-radius: 50%;
