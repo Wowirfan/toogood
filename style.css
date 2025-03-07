@@ -101,14 +101,12 @@ padding-top: 20vh;
     object-fit:fill
 }
 #video-container #play{
-  padding: 6vw 5.2vw;
+  padding: 9vw 7.2vw;
 
   
   font-size: 4.5vw;
   position:absolute;
   border-radius: 50%;
-  text-transform: uppercase;
-  font-family: futura;
   opacity: 1;
   scale: 1;
 }
