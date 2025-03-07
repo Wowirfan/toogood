@@ -147,6 +147,8 @@ transform: translate(-50%, -50%);
   z-index: 999;
   background-color: rgb(229, 156, 186);
   top: 50%;
+  left: 50%;
+  
 
 
 }
