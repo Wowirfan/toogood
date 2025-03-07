@@ -126,7 +126,9 @@ transform: translate(-50%, -50%);
   width: 100%;
   margin-bottom: 3vw;
   /* background-color: greenyellow; */
-
+  display: flex;
+  justify-content:center;
+}
 }
 #page2 .elem img{
   height: 100%;
