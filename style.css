@@ -99,7 +99,7 @@ padding-top: 20vh;
 }
 .child{
   height: 55vh;
-  width: 40
+  width: 40vw;
 }
 
 @media (max-width:600px) {
