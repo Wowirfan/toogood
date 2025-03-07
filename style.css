@@ -96,7 +96,7 @@ padding-top: 20vh;
   height: 100vh;
   width: 100%;
   position: relative;
-  /* background-color: rgb(78, 215, 165); */us
+  background-color: rgb(78, 215, 165);
 }
 .child {
   height: 55vh  ;
