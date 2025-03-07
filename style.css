@@ -160,6 +160,9 @@ transform: translate(-50%, -50%);
   z-index: 9;
   background-color: rgb(229, 156, 186);
 }
+#page3{
+  
+}
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
