@@ -96,7 +96,7 @@ padding-top: 20vh;
     margin-top: 3vw; 
   }
   #video-container video{
-    height: 27vh;
+    height: 25vh;
     width: 100%;
-    object-fit:none;
+    object-fit:;
 }
