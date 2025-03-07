@@ -119,7 +119,7 @@ transform: translate(-50%, -50%);
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  padding: 3vw;
+  padding: 5vw 3vw;
 }
 #page2 .elem{
   height: 100vh;
