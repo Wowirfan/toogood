@@ -135,3 +135,13 @@ transform: translate(-50%, -50%);
 }
 
 }
+#page2 .elem .dets {
+  height: 60px;
+  border-radius: 50px;
+  width: 70%;
+  position: absolute;
+  z-index: 9;
+  background-color: rgb(229, 156, 186);
+
+
+}
