@@ -128,7 +128,7 @@ transform: translate(-50%, -50%);
   /* background-color: greenyellow; */
   display: flex;
   justify-content:center;
-  
+  align-items: center;
 }
 }
 #page2 .elem img{
