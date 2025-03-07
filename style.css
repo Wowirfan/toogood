@@ -121,34 +121,31 @@ transform: translate(-50%, -50%);
   justify-content: space-between;
   padding: 5vw 3vw;
 }
-#page2 .elem {
-  height: 100%;
-  width: 31%;
-  /* background-color: red; */
-  overflow: hidden;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+#page2 .elem{
+  height: 100vh;
+  width: 100%;
+  margin-bottom: 3vw;
+  /* background-color: greenyellow; */
 
-#page2 .elem img {
+}
+#page2 .elem img{
   height: 100%;
   width: 100%;
   object-fit: cover;
-  scale: 1.1;
+  display: flex;
+  
 }
 
+}
 #page2 .elem .dets {
   height: 60px;
   border-radius: 50px;
   width: 70%;
-  position: absolute;
-  z-index: 999;
+  /* position: absolute; */
+  z-index: 9;
   background-color: rgb(229, 156, 186);
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-
+transform: translate(-50%,-50%);
+top: 5%;
+left: 17%;
 
 }
