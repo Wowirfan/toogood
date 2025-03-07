@@ -103,9 +103,9 @@ padding-top: 20vh;
 #video-container #play{
   padding: 6vw 5.2vw;
 
-  color: #fff;
+  
   font-size: 4.5vw;
-  position: fixed;
+  position:absolute;
   border-radius: 50%;
   text-transform: uppercase;
   font-family: futura;
