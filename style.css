@@ -98,7 +98,8 @@ padding-top: 20vh;
   position: relative;
   background-color: #F7F7F7;
   display: flex;
-  align
+  align-items: center;
+  
 }
 .child {
   height: 55vh  ;
