@@ -104,12 +104,12 @@ padding-top: 20vh;
   padding: 3vw 2vw;
   background-color: black;
   color: #fff;
-  font-size: 1.3vw;
+  font-size: 4vw;
   position: fixed;
   border-radius: 50%;
   text-transform: uppercase;
   font-family: futura;
-  opacity: ;
+  opacity: 1;
   scale: 1;
 }
 #page2{
