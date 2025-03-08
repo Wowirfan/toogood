@@ -16,7 +16,7 @@ width: 100%;
   background-color: #F7F7F7;
  }
  #nav{
-  height: 14vh;
+  /* height: 14vh; */
   width: 100%;
   background-color: #deb887;
   position: fixed;
