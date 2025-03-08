@@ -66,6 +66,6 @@ document.querySelector("#child1").addEventListener("mouseenter",function(){
 document.querySelectorAll(".child").forEach(function (elem) {
     elem.addEventListener("mouseenter",function(){
         gsap.to("#cursor",{
-            transform: 'translate(-50%,-50%) scale(1)'
+            transform: "translate(-50%,-50%) scale(1)"
         })
 })
