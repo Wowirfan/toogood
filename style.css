@@ -20,7 +20,7 @@ width: 100%;
   width: 100%;
   background-color: burlywood;
   position: fixed;
-  zin
+  z-index: 99;
  }
  #cursor{
   height: 150px;
