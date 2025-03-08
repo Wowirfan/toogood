@@ -15,7 +15,9 @@ width: 100%;
  body{
   background-color: #F7F7F7;
  }
- #nav
+ #nav{
+  height: ;
+ }
  #cursor{
   height: 150px;
   width: 150px;
