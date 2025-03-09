@@ -34,7 +34,7 @@ ScrollTrigger.refresh();
 }
 locomotiveAnimation()
 gsap.to("#nav-part1 svg",{
-    tra
+    transform
 })
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
