@@ -38,7 +38,7 @@ gsap.to("#nav-part1 svg",{
     ScrollTrigger:{
         trigger:"#page1",
     scroller:"#main",
-    start:"top 0"
+    start:"top 0",
     end:"top -5%",
     scrub:true
     }
