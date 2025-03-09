@@ -33,16 +33,16 @@ ScrollTrigger.refresh();
 
 // }
 // locomotiveAnimation()
-gsap.to("#nav-part1 svg",{
-    transform:"translateY(-100%)",
-    ScrollTrigger:{
-        trigger:"#page1",
-    scroller:"#main",
-    start:"top 0"
-    end:"top -5%",
-    scrub:true
-    }
-})
+// gsap.to("#nav-part1 svg",{
+//     transform:"translateY(-100%)",
+//     ScrollTrigger:{
+//         trigger:"#page1",
+//     scroller:"#main",
+//     start:"top 0"
+//     end:"top -5%",
+//     scrub:true
+//     }
+// })
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
 var playbtn= document.querySelector("#play")
