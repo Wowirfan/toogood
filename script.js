@@ -45,6 +45,7 @@ gsap.to("#nav-part1 svg",{
 })
 gsap.to("#nav-part1 svg",{
     transform:"translateY(-100%)",
+    opacity:
     ScrollTrigger:{
         trigger:"#page1",
     scroller:"#main",
