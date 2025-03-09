@@ -26,7 +26,10 @@ width: 100%;
   align-items: center;
   justify-content: space-between;
  }
- #nav #nav-part2
+ #nav #nav-part2{
+  display: flex;
+  align
+ }
  #cursor{
   height: 150px;
   width: 150px;
