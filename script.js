@@ -31,8 +31,8 @@ ScrollTrigger.addEventListener("refresh", () => locoScroll.update());
 // after everything is set up, refresh() ScrollTrigger and update LocomotiveScroll because padding may have been added for pinning, etc.
 ScrollTrigger.refresh();
 
-}
-locomotiveAnimation()
+// }
+// locomotiveAnimation()
 gsap.to("#nav-part1 svg",{
     transform:"translateY(-100%)",
     ScrollTrigger:{
