@@ -1,5 +1,5 @@
 
-// function locomotiveAnimation() {
+function locomotiveAnimation() {
     gsap.registerPlugin(ScrollTrigger);
 
 // Using Locomotive Scroll from Locomotive https://github.com/locomotivemtl/locomotive-scroll
@@ -42,7 +42,7 @@ ScrollTrigger.refresh();
 //     end:"top -5%",
 //     scrub:true
 //     }
-// })
+})
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
 var playbtn= document.querySelector("#play")
