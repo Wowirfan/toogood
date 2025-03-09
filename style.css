@@ -46,7 +46,8 @@ width: 100%;
  }
  #icons{
   padding: 10px;
-  border
+  border-radius: 50%;
+  background-color: ;
  }
  #nav #nav-part2 #icon i{
  font-size: 18px;
