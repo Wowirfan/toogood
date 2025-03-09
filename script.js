@@ -25,24 +25,6 @@ ScrollTrigger.scrollerProxy(".smooth-scroll", {
 
 
 
-// --- PURPLE/GREEN PANEL ---
-var tl = gsap.timeline({
-    scrollTrigger: {
-      trigger: ".purple",
-      scroller: ".smooth-scroll",
-      scrub: true,
-      pin: true,
-      start: "top top",
-      end: "+=100%"
-    }
-  });
-
-tl.from(".purple p", {scale: 0.3, rotation:45, autoAlpha: 0, ease: "power2"})
-  .from(".line-3", {scaleX: 0, transformOrigin: "left center", ease: "none"}, 0)
-  .to(".purple", {backgroundColor: "#28a92b"}, 0);
-
-
-
 // each time the window updates, we should refresh ScrollTrigger and then update LocomotiveScroll. 
 ScrollTrigger.addEventListener("refresh", () => locoScroll.update());
 
