@@ -28,7 +28,7 @@ width: 100%;
  }
  #nav-part1{
   background-color:red;
-  height:82
+  height:82px;
  }
  #nav #nav-part2{
   display: flex;
