@@ -31,8 +31,9 @@ width: 100%;
   align-items: center;
   justify-content: center;
   gap: 40px;
-  
+
  }
+ 
  #cursor{
   height: 150px;
   width: 150px;
