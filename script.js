@@ -24,37 +24,6 @@ ScrollTrigger.scrollerProxy(".smooth-scroll", {
 });
 
 
-// --- RED PANEL ---
-gsap.from(".line-1", {
-  scrollTrigger: {
-    trigger: ".line-1",
-    scroller: ".smooth-scroll",
-    scrub: true,
-    start: "top bottom",
-    end: "top top",
-    onUpdate: self => console.log(self.direction)
-  },
-  scaleX: 0,
-  transformOrigin: "left center", 
-  ease: "none"
-});
-
-
-// --- ORANGE PANEL ---
-gsap.from(".line-2", {
-  scrollTrigger: {
-    trigger: ".orange",
-    scroller: ".smooth-scroll",
-    scrub: true,
-    pin: true,
-    start: "top top",
-    end: "+=100%"
-  },
-  scaleX: 0, 
-  transformOrigin: "left center", 
-  ease: "none"
-});
-
 
 // --- PURPLE/GREEN PANEL ---
 var tl = gsap.timeline({
