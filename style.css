@@ -28,7 +28,8 @@ width: 100%;
  }
  #nav #nav-part2{
   display: flex;
-  align
+  align-items: center;
+  justify-content: ;
  }
  #cursor{
   height: 150px;
