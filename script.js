@@ -34,7 +34,8 @@ ScrollTrigger.refresh();
 }
 locomotiveAnimation()
 gsap.to("#nav-part1 svg",{
-    transform:"translateY(-100%)"
+    transform:"translateY(-100%)",
+    opa
 })
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
