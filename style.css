@@ -23,7 +23,7 @@ width: 100%;
   z-index: 99;
   display: flex;
   padding: 25px;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
  }
  #nav #nav-part2{
