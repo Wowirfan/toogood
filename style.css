@@ -34,7 +34,7 @@ width: 100%;
 
  }
  #nav #nav-part2 #links a{
-  tex
+  text-decoration: none;
  }
  #cursor{
   height: 150px;
