@@ -45,11 +45,12 @@ width: 100%;
   margin-right: 30px;
  }
  #icon{
-  
+  padding: 10px;
  }
  #nav #nav-part2 #icon i{
  font-size: 18px;
  font-weight: 100;
+ 
  
  }
  #cursor{
