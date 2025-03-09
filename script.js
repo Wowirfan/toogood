@@ -37,7 +37,8 @@ gsap.to("#nav-part1 svg",{
     transform:"translateY(-100%)",
     trigger:"#page1",
     scroller:"#main",
-    start:
+    start:"top 0"
+    
 })
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
