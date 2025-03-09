@@ -81,7 +81,7 @@ videocon.addEventListener("mouseleave", function(){
 })
 videocon.addEventListener("mousemove", function(dets){
     gsap.to(playbtn,{
-       left:dets.x,
+       left:dets.x-,
        top:dets.y,
     })
 })
