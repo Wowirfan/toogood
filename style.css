@@ -28,7 +28,7 @@ width: 100%;
  }
  #nav #nav-part2{
   display: flex;
-  align-items: cente;
+  align-items: flex-start;
   justify-content: center;
   gap: 40px;
 
