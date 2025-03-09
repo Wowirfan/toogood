@@ -33,7 +33,7 @@ ScrollTrigger.refresh();
 
 }
 locomotiveAnimation()
-gsap.to("#navpartq")
+gsap.to("#nav-part1 ")
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
 var playbtn= document.querySelector("#play")
