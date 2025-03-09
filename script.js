@@ -57,7 +57,7 @@ videocon.addEventListener("mousemove", function(dets){
 }
 videoconAnimation()
 
-function loadinganimation(){
+function loadingAnimation(){
     gsap.from("#page1 h1",{
         y: 100,
         opacity: 0,
