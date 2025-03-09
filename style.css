@@ -33,7 +33,7 @@ width: 100%;
   gap: 40px;
 
  }
- align-items: flex-start; #links a{
+ #nav #nav-part2 #links a{
   text-decoration: none;
   color: #333;
   text-transform: uppercase;
