@@ -76,7 +76,7 @@ function loadinganimation(){
         stagger: 0.3
     })
 }
-loadingAnimation()
+loadinganimation()
 function loadingvideocon(){
     gsap.from("#page1 #video-container",{
         scale: 0.9,
