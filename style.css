@@ -24,7 +24,7 @@ width: 100%;
   display: flex;
   padding: 25px;
   align-items: center;
-  ks
+  justify-content: space-evenly;
  }
  #cursor{
   height: 150px;
