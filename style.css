@@ -33,7 +33,9 @@ width: 100%;
   gap: 40px;
 
  }
- #nav #nav-part2 
+ #nav #nav-part2 #links a{
+  tex
+ }
  #cursor{
   height: 150px;
   width: 150px;
