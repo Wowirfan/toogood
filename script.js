@@ -32,7 +32,7 @@ ScrollTrigger.addEventListener("refresh", () => locoScroll.update());
 ScrollTrigger.refresh();
 
 }
-locomotiveAnimation()
+locomotiveAnimation()k
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
 var playbtn= document.querySelector("#play")
