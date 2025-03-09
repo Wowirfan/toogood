@@ -18,7 +18,7 @@ width: 100%;
  #nav{
   /* height: 14vh; */
   width: 100%;
-  background-color: #deb887;
+  /* background-color: #deb887; */
   position: fixed;
   z-index: 99;
   display: flex;
