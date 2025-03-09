@@ -1,9 +1,5 @@
-// import LocomotiveScroll from 'locomotive-scroll';
 
-// const scroll = new LocomotiveScroll({
-//   el: document.querySelector('#main'),
-//   smooth: true,
-// });
+function locomotive
 
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
