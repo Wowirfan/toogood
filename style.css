@@ -27,7 +27,7 @@ width: 100%;
   justify-content: space-between;
  }
  #nav-part1{
-  background-color:
+  background-color:red;
  }
  #nav #nav-part2{
   display: flex;
