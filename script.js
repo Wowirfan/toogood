@@ -36,7 +36,8 @@ locomotiveAnimation()
 gsap.to("#nav-part1 svg",{
     transform:"translateY(-100%)",
     trigger:"#page1",
-    scroller:"#main".
+    scroller:"#main",
+    start:
 })
 function videoconAnimation(){
     var videocon = document.querySelector("#video-container")
