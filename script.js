@@ -43,7 +43,7 @@ gsap.to("#nav-part1 svg",{
     scrub:true
     }
 })
-gsap.to("#nav-part1 ",{
+gsap.to("#nav-part1 #links",{
     transform:"translateY(-100%)",
     opacity:0,  
     ScrollTrigger:{
